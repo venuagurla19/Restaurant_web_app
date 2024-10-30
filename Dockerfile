@@ -4,7 +4,7 @@ WORKDIR /usr/share/nginx/html
 
 COPY application.css .
 COPY application.html .
-COPY home.html .
+COPY Home.html .
 COPY restaurant.css .
 COPY /images ./images/
 COPY /icons ./icons
